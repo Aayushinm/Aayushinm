@@ -1,26 +1,4 @@
-- 👋 Hi, I’m @Aayushinm
 
-
-Code
-Issues
-Pull requests
-More
-BreadcrumbsAssignment
-/README.md
-Latest commit
-Aayushinm
-Aayushinm
-1 min ago
-History
-217 lines (160 loc) · 4.86 KB
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
-Assignment
 QUESTION 1: public class PalindromeChecker { public static void main(String[] args) { String inputStr = "ABCDCBA";
 
 if (isPalindrome(inputStr)) { System.out.println("Palindrome"); } else { System.out.println("Not Palindrome"); } }
